@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PhoneAuthentication</string>
+    <string name="Verify_mobile">Введите код из смс:</string>
+    <string name="Verify">Продолжить</string>
+    <string name="Login">Введите номер вашего телефона:</string>
+    <string name="russia_region_plus7">+7</string>
+    <string name="proceed">Продолжить</string>
+    <string name="Logout">Вернуться</string>
+    <string name="Welcome">Добро пожаловать в Android</string>
+    <string name="repeat">Повторный запрос кода</string>
+</resources>
